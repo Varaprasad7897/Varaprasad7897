@@ -18,7 +18,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Varaprasad7897&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
-<img src="https://raw.githubusercontent.com/Varaprasad7897/Varaprasad7897/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Varaprasad7897/Varaprasad7897/blob/output/github-contribution-grid-snake.gif)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Varaprasad7897&icon=2&color=12)](https://visitcount.itsvg.in)
