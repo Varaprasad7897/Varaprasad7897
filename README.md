@@ -20,3 +20,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Varaprasad7897&icon=2&color=12)](https://visitcount.itsvg.in)
+
+<img src="snake.yml" alt="Snake animation" />
