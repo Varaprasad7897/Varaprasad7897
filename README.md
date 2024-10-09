@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Blockchain<br>🌱 I’m currently learning Blockchain<br>💬 Ask me about HTML, CSS, JavaScript<br>📫 How to reach me saidurgavaraprasad_p@srmap.edu.in
+🔭 I’m currently working on Machinew Learning models<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about HTML, CSS, JavaScript<br>📫 How to reach me saidurgavaraprasad_p@srmap.edu.in
 
 
 ## 🌐 Socials:
